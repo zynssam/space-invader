@@ -4,4 +4,4 @@ A classic arcade-style Space Invader game built with Pygame. Battle waves of ali
 
 ## Running the Game
 
-Download the executable from the [click here]([(https://mega.nz/file/3RJynY5I#Ji8Ongk4ZOHOLmq6hNoAKPBv9MayQj3VAioUD_b6cyw)]) --->MEGA
+Download the executable from the [click here](https://mega.nz/file/3RJynY5I#Ji8Ongk4ZOHOLmq6hNoAKPBv9MayQj3VAioUD_b6cyw)--->MEGA
